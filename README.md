@@ -8,4 +8,6 @@ Day 3 = Learn About Loops like for loop, forin loop, for of loop, do while loop,
 
 Day 4 = Learn About Functions, Function with Parameters and Arrow Function in Javascript(js). 
 
-Day 5 = Learn About Strings, Also Learns Differents String Methods in Javascript.
+Day 5 = Learn About Strings, Also Learns Differents String Methods in Javascript(js).
+
+Day 6 = Learn About Array and Different Array Methods in Javascript(js)
