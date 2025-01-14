@@ -11,3 +11,7 @@ Day 4 = Learn About Functions, Function with Parameters and Arrow Function in Ja
 Day 5 = Learn About Strings, Also Learns Differents String Methods in Javascript(js).
 
 Day 6 = Learn About Array and Different Array Methods in Javascript(js)
+
+Day 7 = Learn About what is DOM BaSically is in Javascript(js)
+
+Day 8 = Learn about DOM Childen,Parent, & Sibling Nodes in Javascript(js)
