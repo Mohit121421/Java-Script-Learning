@@ -15,3 +15,5 @@ Day 6 = Learn About Array and Different Array Methods in Javascript(js)
 Day 7 = Learn About what is DOM BaSically is in Javascript(js)
 
 Day 8 = Learn about DOM Childen,Parent, & Sibling Nodes in Javascript(js)
+
+Day 9 = Learn about DOM Selecting by Ids, Classes, and More in Javascript(js)
