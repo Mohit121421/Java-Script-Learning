@@ -23,3 +23,5 @@ Day 10 = Learn about Inserting and Removing Elements Using DOM in Javascript(js)
 Day 11 - Learn about Events, Event Bubbling, setIntervals & setTimeout in Javascript(js)
 
 Day 12 - Learn about Callbacks & Promises in Javascript(js)
+
+Day 13 - Learn about Async/Await & Fetch API in Javascript(js)
