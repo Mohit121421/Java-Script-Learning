@@ -27,3 +27,5 @@ Day 12 - Learn about Callbacks & Promises in Javascript(js)
 Day 13 - Learn about Async/Await & Fetch API in Javascript(js)
 
 Day 14 - Learn about try catch & Error Handling in Javascript(js)
+
+Day 14 - Learn about Classes and Object in Javascript(js)
