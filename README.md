@@ -25,3 +25,5 @@ Day 11 - Learn about Events, Event Bubbling, setIntervals & setTimeout in Javasc
 Day 12 - Learn about Callbacks & Promises in Javascript(js)
 
 Day 13 - Learn about Async/Await & Fetch API in Javascript(js)
+
+Day 14 - Learn about try catch & Error Handling in Javascript(js)
