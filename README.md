@@ -21,3 +21,5 @@ Day 9 = Learn about DOM Selecting by Ids, Classes, and More in Javascript(js)
 Day 10 = Learn about Inserting and Removing Elements Using DOM in Javascript(js)
 
 Day 11 - Learn about Events, Event Bubbling, setIntervals & setTimeout in Javascript(js)
+
+Day 12 - Learn about Callbacks & Promises in Javascript(js)
